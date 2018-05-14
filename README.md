@@ -5,6 +5,7 @@ This is a not all encompassing, mostly-free list of web development resources.  
 ## General Websites 
 &ast; = some paid
 ** = paid
+- [David Dias - Front-End Resources](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [CodeAcademy*](https://www.codecademy.com/)
 - [Treehouse**](https://teamtreehouse.com)
 - [W3Schools](https://www.w3schools.com/)

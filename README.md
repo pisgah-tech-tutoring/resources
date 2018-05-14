@@ -11,6 +11,10 @@ This is a not all encompassing, mostly-free list of web development resources.  
 - [Khan Academy](https://www.khanacademy.org/computing/)
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
 - [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Dave Xiang](https://www.youtube.com/channel/UCu44AnfqsP-sRxmZHdnhblw)
+- [Wes Bos*](https://wesbos.com)
+- [Mattias Petter Johansson - Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/)
 
 ## HTML & CSS
 
@@ -27,6 +31,7 @@ This is a not all encompassing, mostly-free list of web development resources.  
 - [CodeAcademy - Build a Website](https://www.codecademy.com/learn/make-a-website)
 - [CodeAcademy - Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Dave Xiang - Understand Programming Languages](https://www.youtube.com/watch?v=_zusEe3GOe8)
 
 
 ## JavaScript
@@ -43,6 +48,7 @@ This is a not all encompassing, mostly-free list of web development resources.  
 ## Tooling
 - [Hack Reactor - Introduction to Developer Tools](https://www.youtube.com/watch?v=A0zotffEDzw)
 - [LearnCode.academy - Webpack Tutorial](https://www.youtube.com/watch?v=9kJVYpOqcVU)
+- [Wes Box - Modern workflow and tooling for frontend developers](https://www.youtube.com/watch?v=CiMGKZpnHQE)
 
 ## Git
 - [Codemy School - What is git?](https://www.youtube.com/watch?v=uUuTYDg9XoI)
@@ -51,3 +57,5 @@ This is a not all encompassing, mostly-free list of web development resources.  
 - [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## React
+- [Wes Bos - React for Beginners**](https://reactforbeginners.com/)
+- [Swizec Teller](https://www.youtube.com/user/TheSwizec)

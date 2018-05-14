@@ -20,12 +20,13 @@ This is a not all encompassing, mostly-free list of web development resources.  
 ## HTML & CSS
 
 - [CodeAcademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Derek Banas - Learn HTML](https://www.youtube.com/watch?v=Ggh_y-33Eso)
 - [CodeAcademy - Learn CSS](https://www.codecademy.com/learn/learn-css)
 - [CodeAcademy - Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 - [CodeAcademy - Learn Sass](https://www.codecademy.com/learn/learn-sass)
 - [Khan Academy - HTML & CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [HTML & CSS by Jon Duckett](https://smile.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?ie=UTF8&qid=1526093022&sr=8-4&keywords=html+and+css)
-- [CSS by Derek Banas](https://www.youtube.com/watch?v=I-rTKuEhrCM&list=PL07454EA7FF8D28AB)
+- [Derek Banas - Learn CSS](https://www.youtube.com/watch?v=I-rTKuEhrCM&list=PL07454EA7FF8D28AB)
 
 
 ## Programming Fundamentals
@@ -36,6 +37,7 @@ This is a not all encompassing, mostly-free list of web development resources.  
 
 
 ## JavaScript
+- [CodeSchool - What is JavaScript?](https://www.youtube.com/watch?v=nItSSTwBvSU)
 - [CodeAcademy - Intro to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [CodeAcademy - Intro to jQuery](https://www.codecademy.com/learn/learn-jquery)
 - [Khan Academy - Intro to Programming](https://www.khanacademy.org/computing/computer-programming/programming)
@@ -45,17 +47,21 @@ This is a not all encompassing, mostly-free list of web development resources.  
 - [JavaScript30](https://javascript30.com/)
 - [JavaScript by Derek Banas](https://www.youtube.com/watch?v=_cLvpJY2deo&list=PLBA965A22D89CF13B)
 - [mmtuts JavaScript](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)
+- [Beau Teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
 
 ## Tooling
 - [Hack Reactor - Introduction to Developer Tools](https://www.youtube.com/watch?v=A0zotffEDzw)
 - [LearnCode.academy - Webpack Tutorial](https://www.youtube.com/watch?v=9kJVYpOqcVU)
-- [Wes Box - Modern workflow and tooling for frontend developers](https://www.youtube.com/watch?v=CiMGKZpnHQE)
+- [Wes Bos - Modern workflow and tooling for frontend developers](https://www.youtube.com/watch?v=CiMGKZpnHQE)
 
 ## Git
 - [Codemy School - What is git?](https://www.youtube.com/watch?v=uUuTYDg9XoI)
 - [GitHub - What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - [CodeAcademy - Learn Git](https://www.codecademy.com/learn/learn-git)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+
+## APIs
+- [MuleSoft - What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 
 ## React
 - [Wes Bos - React for Beginners**](https://reactforbeginners.com/)

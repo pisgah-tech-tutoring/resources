@@ -55,6 +55,7 @@ This is a not all encompassing, mostly-free list of web development resources.  
 - [Wes Bos - Modern workflow and tooling for frontend developers](https://www.youtube.com/watch?v=CiMGKZpnHQE)
 
 ## Git
+- [Paul Progamming - What is git?](https://www.youtube.com/watch?v=OqmSzXDrJBk)
 - [Codemy School - What is git?](https://www.youtube.com/watch?v=uUuTYDg9XoI)
 - [GitHub - What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - [CodeAcademy - Learn Git](https://www.codecademy.com/learn/learn-git)

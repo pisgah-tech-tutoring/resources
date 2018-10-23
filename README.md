@@ -18,6 +18,7 @@ This is a not all encompassing, mostly-free list of web development resources.  
 - [Mattias Petter Johansson - Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/)
 - [codepen](http://codepen.io)
 - [codesandbox](https://codesandbox.io/)
+- [Tyler McGinnis**](https://tylermcginnis.com/)
 
 ## HTML & CSS
 
